@@ -2,5 +2,5 @@
 
 ### Servlet基础
 
-![image-20210623111134320](/Users/lih3iu/Library/Application Support/typora-user-images/image-20210623111134320.png)
+![image-20210623112834225](Servlet.assets/image-20210623112834225.png)
 
